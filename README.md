@@ -1,4 +1,4 @@
-# Sep### Você pode entrar em contato comigo :sephora
+# Sephora### Você pode entrar em contato comigo :sephora
 
 manotte.maurival@escola.pr.gov.br
 @manottemaurival
