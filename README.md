@@ -3,7 +3,7 @@
 manotte.maurival@escola.pr.gov.br
 @manottemaurival
 ## Boas vindas ao meu perfil :manotte
-Meu nome  Manotte sephoa
+Meu nome  Manotte sephora
 
 - Estou estudando na Alura
 - Estou me desenvolvendo na linguagem JavaScript
